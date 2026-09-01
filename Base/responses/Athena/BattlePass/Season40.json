@@ -1,0 +1,382 @@
+{
+  "battleBundleOfferId": "C549FE214E986560F96F9B9D5B8B4671",
+  "battlePassOfferId": "BC0A1ACE4849719CEFC83091588B2DF4",
+  "tierOfferId": "F12AB3F045A71B7509F71DB7A11FB784",
+  "paidRewards": [
+    {
+      "Token:athenaseasonxpboost": 50,
+      "Token:athenaseasonfriendxpboost": 60,
+      "AthenaCharacter:Character_BriskReign": 1
+    },
+    {},
+    {
+      "AthenaPickaxe:Pickaxe_BriskReign": 1
+    },
+    {},
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {
+      "AthenaBackpack:Backpack_BriskReign": 1
+    },
+    {},
+    {
+      "AthenaGlider:Glider_BriskReign_Glacier": 1
+    },
+    {},
+    {
+      "AthenaDance:EID_BriskReign": 1
+    },
+    {
+      "AthenaSkyDiveContrail:Contrail_BriskReign": 1
+    },
+    {},
+    {
+      "AthenaItemWrap:Wrap_BriskReign": 1
+    },
+    {
+      "AthenaLoadingScreen:LoadingScreen_BriskReign": 1
+    },
+    {},
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {
+      "AthenaDance:Spray_BriskReign": 1
+    },
+    {},
+    {
+      "AthenaLoadingScreen:LoadingScreen_BriskReign2": 1
+    },
+    {
+      "AthenaCharacter:Character_VileSting_Crude": 1
+    },
+    {},
+    {
+      "AthenaPickaxe:Pickaxe_VileSting": 1
+    },
+    {},
+    {
+      "AthenaBackpack:Backpack_VileSting": 1
+    },
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {},
+    {
+      "AthenaGlider:Glider_VileSting": 1
+    },
+    {
+      "AthenaDance:EID_VileSting": 1
+    },
+    {},
+    {
+      "AthenaItemWrap:Wrap_VileSting": 1
+    },
+    {
+      "AthenaLoadingScreen:LoadingScreen_VileSting": 1
+    },
+    {},
+    {
+      "AthenaDance:Spray_VileSting": 1
+    },
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {},
+    {
+      "AthenaLoadingScreen:LoadingScreen_VileSting2": 1
+    },
+    {
+      "AthenaCharacter:Character_SquibblySquid": 1
+    },
+    {},
+    {
+      "AthenaPickaxe:Pickaxe_SquibblySquid": 1
+    },
+    {
+      "AthenaBackpack:Backpack_SquibblySquid": 1
+    },
+    {},
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {
+      "AthenaGlider:Glider_SquibblySquid": 1
+    },
+    {},
+    {
+      "AthenaDance:EID_SquibblySquid": 1
+    },
+    {
+      "AthenaSkyDiveContrail:Contrail_SquibblySquid": 1
+    },
+    {},
+    {
+      "AthenaItemWrap:Wrap_SquibblySquid": 1
+    },
+    {
+      "AthenaLoadingScreen:LoadingScreen_SquibblySquid": 1
+    },
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {},
+    {
+      "AthenaDance:Spray_SquibblySquid": 1
+    },
+    {
+      "AthenaLoadingScreen:LoadingScreen_SquibblySquid2": 1
+    },
+    {},
+    {
+      "AthenaCharacter:Character_CozyMechanic_Hen": 1
+    },
+    {},
+    {
+      "AthenaPickaxe:Pickaxe_CozyMechanic": 1
+    },
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {
+      "AthenaBackpack:Backpack_CozyMechanic": 1
+    },
+    {},
+    {
+      "AthenaGlider:Glider_CozyMechanic": 1
+    },
+    {
+      "AthenaDance:EID_CozyMechanic": 1
+    },
+    {},
+    {
+      "AthenaItemWrap:Wrap_CozyMechanic": 1
+    },
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {
+      "AthenaLoadingScreen:LoadingScreen_CozyMechanic": 1
+    },
+    {},
+    {
+      "AthenaDance:Spray_CozyMechanic": 1
+    },
+    {
+      "AthenaLoadingScreen:LoadingScreen_CozyMechanic2": 1
+    },
+    {},
+    {
+      "AthenaCharacter:Character_IcicleCane_Bright": 1
+    },
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {},
+    {
+      "AthenaPickaxe:Pickaxe_IcicleCane_Bright": 1
+    },
+    {
+      "AthenaBackpack:Backpack_IcicleCane_Bright": 1
+    },
+    {},
+    {
+      "AthenaGlider:Glider_IcicleCane_Bright": 1
+    },
+    {
+      "AthenaDance:EID_IcicleCane": 1
+    },
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {},
+    {
+      "AthenaItemWrap:Wrap_IcicleCane_Bright": 1
+    },
+    {
+      "AthenaLoadingScreen:LoadingScreen_IcicleCane": 1
+    },
+    {},
+    {
+      "AthenaDance:Spray_IcicleCane": 1
+    },
+    {
+      "AthenaLoadingScreen:LoadingScreen_IcicleCane2": 1
+    },
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {
+      "AthenaCharacter:Character_FoundKelp_Bolt": 1
+    },
+    {},
+    {
+      "AthenaPickaxe:Pickaxe_FoundKelp": 1
+    },
+    {
+      "AthenaBackpack:Backpack_FoundKelp": 1
+    },
+    {},
+    {
+      "AthenaGlider:Glider_FoundKelp": 1
+    },
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {
+      "AthenaDance:EID_FoundKelp": 1
+    },
+    {
+      "AthenaSkyDiveContrail:Contrail_FoundKelp": 1
+    },
+    {},
+    {
+      "AthenaItemWrap:Wrap_FoundKelp": 1
+    },
+    {
+      "AthenaLoadingScreen:LoadingScreen_FoundKelp": 1,
+      "AthenaCharacter:Character_SteedShimmer_Shire": 1
+    }
+  ],
+  "freeRewards": [
+    {},
+    {
+      "HomebaseBannerIcon:Banner_BriskReign": 1
+    },
+    {},
+    {
+      "HomebaseBannerIcon:Banner_VileSting": 1
+    },
+    {},
+    {
+      "HomebaseBannerIcon:Banner_SquibblySquid": 1
+    },
+    {},
+    {
+      "HomebaseBannerIcon:Banner_CozyMechanic": 1
+    },
+    {},
+    {
+      "HomebaseBannerIcon:Banner_IcicleCane": 1
+    },
+    {},
+    {
+      "HomebaseBannerIcon:Banner_FoundKelp": 1
+    },
+    {},
+    {
+      "HomebaseBannerIcon:Banner_PrawnTwine": 1
+    },
+    {},
+    {
+      "HomebaseBannerIcon:Banner_SteedShimmer": 1
+    },
+    {},
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {},
+    {},
+    {
+      "AthenaDance:Emoticon_BriskReign": 1
+    },
+    {},
+    {},
+    {
+      "AthenaDance:Emoticon_VileSting": 1
+    },
+    {},
+    {},
+    {
+      "AthenaDance:Emoticon_SquibblySquid": 1
+    },
+    {},
+    {},
+    {
+      "AthenaDance:Emoticon_CozyMechanic": 1
+    },
+    {},
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {},
+    {
+      "AthenaDance:Emoticon_IcicleCane": 1
+    },
+    {},
+    {},
+    {
+      "AthenaDance:Emoticon_FoundKelp": 1
+    },
+    {},
+    {},
+    {
+      "AthenaDance:Emoticon_PrawnTwine": 1
+    },
+    {},
+    {},
+    {
+      "AthenaDance:Emoticon_SteedShimmer": 1
+    },
+    {},
+    {},
+    {
+      "AthenaLoadingScreen:LoadingScreen_S40KeyArt": 1
+    },
+    {},
+    {},
+    {
+      "AthenaLoadingScreen:LoadingScreen_S40LineUp": 1
+    },
+    {},
+    {
+      "Currency:mtxgiveaway": 100
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "Panels": [
+    {
+      "PanelName": "BattleRoyale",
+      "Pages": [
+        {
+          "results": [
+            { "linkData": { "namespace": "fn", "mnemonic": "playlist_defaultsolo", "linkType": "BR:Playlist", "active": true, "disabled": false, "version": 95, "moderationStatus": "Unmoderated", "accountId": "epic", "creatorName": "Epic Games", "title": "Solo", "description": "Go at it alone in a battle to be the last one standing.", "descriptionTags": [], "metadata": { "image_url": "https://cdn2.unrealengine.com/21br-launch-modetiles-solo-1920x1080-1920x1080-b6a3a8cbb08e.jpg", "matchmaking": { "override_playlist": "playlist_defaultsolo" } } }, "lastVisited": null, "linkCode": "playlist_defaultsolo", "isFavorite": false },
+            { "linkData": { "namespace": "fn", "mnemonic": "playlist_defaultduo", "linkType": "BR:Playlist", "active": true, "disabled": false, "version": 95, "moderationStatus": "Unmoderated", "accountId": "epic", "creatorName": "Epic Games", "title": "Duos", "description": "Pair up with a buddy and take everyone else down.", "descriptionTags": [], "metadata": { "image_url": "https://cdn2.unrealengine.com/21br-launch-modetiles-duos-1920x1080-1920x1080-7bd1ca269cfd.jpg", "matchmaking": { "override_playlist": "playlist_defaultduo" } } }, "lastVisited": null, "linkCode": "playlist_defaultduo", "isFavorite": false },
+            { "linkData": { "namespace": "fn", "mnemonic": "playlist_trios", "linkType": "BR:Playlist", "active": true, "disabled": false, "version": 95, "moderationStatus": "Unmoderated", "accountId": "epic", "creatorName": "Epic Games", "title": "Trios", "description": "Squad up in groups of three.", "descriptionTags": [], "metadata": { "image_url": "https://cdn2.unrealengine.com/trios-1920x1080-1920x1080-d5054bb9691a.jpg", "matchmaking": { "override_playlist": "playlist_trios" } } }, "lastVisited": null, "linkCode": "playlist_trios", "isFavorite": false },
+            { "linkData": { "namespace": "fn", "mnemonic": "playlist_defaultsquad", "linkType": "BR:Playlist", "active": true, "disabled": false, "version": 95, "moderationStatus": "Unmoderated", "accountId": "epic", "creatorName": "Epic Games", "title": "Squads", "description": "Squad up and outlast the competition.", "descriptionTags": [], "metadata": { "image_url": "https://cdn2.unrealengine.com/squads-1920x1080-1920x1080-095c0732502e.jpg", "matchmaking": { "override_playlist": "playlist_defaultsquad" } } }, "lastVisited": null, "linkCode": "playlist_defaultsquad", "isFavorite": false }
+          ],
+          "hasMore": false
+        }
+      ]
+    }
+  ],
+  "TestCohorts": ["Meteor"],
+  "ModeSets": {}
+}

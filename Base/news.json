@@ -1,0 +1,28 @@
+[
+  {
+    "id": "news-1",
+    "title": "Welcome to Meteor!",
+    "body": "Still development process so of course bugs occur",
+    "image": "https://cdn.discordapp.com/attachments/1476302246508630097/1499801377025560596/Picsart_26-04-29_22-12-58-130.png?ex=69f61e61&is=69f4cce1&hm=eb016c8bdf43f7a87f73204b94cfa354f39139f13a1bbb9ed102d038a2505a8a&",
+    "tileImage": "https://cdn.discordapp.com/attachments/1476302246508630097/1499801377025560596/Picsart_26-04-29_22-12-58-130.png?ex=69f61e61&is=69f4cce1&hm=eb016c8bdf43f7a87f73204b94cfa354f39139f13a1bbb9ed102d038a2505a8a&",
+    "author": "Meteor ",
+    "websiteURL": "https://discord.gg/Dz6S7VMgJU",
+    "websiteButtonText": "Join Discord",
+    "hidden": false,
+    "spotlight": false,
+    "sortingPriority": 0
+  },
+  {
+    "id": "news-2",
+    "title": "Welcome to Meteor!",
+    "body": "Welcome to the Meteor!",
+    "image": "https://cdn2.unrealengine.com/t-bp19-lobby-xmas-2048x1024-f85d2684b4af.png",
+    "tileImage": "https://cdn2.unrealengine.com/t-bp19-lobby-xmas-2048x1024-f85d2684b4af.png",
+    "author": "Meteor ",
+    "websiteURL": "https://discord.gg/Dz6S7VMgJU",
+    "websiteButtonText": "Join Discord",
+    "hidden": false,
+    "spotlight": false,
+    "sortingPriority": 0
+  }
+]

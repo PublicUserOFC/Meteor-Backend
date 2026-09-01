@@ -1,0 +1,16 @@
+{
+  "daily1": {"itemGrants":["AthenaCharacter:CID_179_Athena_Commando_F_Scuba"],"price":1500},
+  "daily2": {"itemGrants":["AthenaCharacter:CID_401_Athena_Commando_M_Miner"],"price":800},
+  "daily3": {"itemGrants":["AthenaDance:EID_BreakDance"],"price":800},
+  "daily4": {"itemGrants":["AthenaBackpack:BID_128_PlagueFemale"],"price":1500},
+  "daily5": {"itemGrants":["AthenaGlider:Glider_ID_004_Disco"],"price":1200},
+  "daily6": {"itemGrants":["AthenaPickaxe:Pickaxe_ID_050_Graffiti"],"price":1200},
+  "daily7": {"itemGrants":["AthenaLoadingscreen:LSID_030_S5Cumulative4"],"price":200},
+  "daily8": {"itemGrants":["AthenaEmoji:Emoji_ArmFlex"],"price":200},
+  "featured1": {"itemGrants":["AthenaCharacter:CID_061_Athena_Commando_F_SkiGirl"],"price":1500},
+  "featured2": {"itemGrants":["AthenaCharacter:CID_286_Athena_Commando_F_NeonCat"],"price":2000},
+  "featured3": {"itemGrants":["AthenaDance:EID_AfroHouse"],"price":500},
+  "featured4": {"itemGrants":["AthenaBackpack:BID_003_RedKnight"],"price":2000},
+  "featured5": {"itemGrants":["AthenaGlider:Glider_ID_005_HolidaySweater"],"price":800},
+  "featured6": {"itemGrants":["AthenaPickaxe:Pickaxe_ID_052_Hazmat"],"price":800}
+}

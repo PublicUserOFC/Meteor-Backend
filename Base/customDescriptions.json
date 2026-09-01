@@ -1,0 +1,84 @@
+{
+  "playlists": [
+    {
+      "playlist_name": "Playlist_DefaultSolo",
+      "display_name": "Solo",
+      "description": "Go at it alone in a battle to be the last one standing."
+    },
+    {
+      "playlist_name": "Playlist_DefaultDuo",
+      "display_name": "Duos",
+      "description": "Pair up with a buddy and take everyone else down."
+    }
+  ],
+  "discovery": [
+    {
+      "mnemonic": "playlist_defaultsolo",
+      "title": "Solo",
+      "description": "Go at it alone in a battle to be the last one standing.",
+      "creatorName": "Epic Games",
+      "image_url": "https://cdn2.unrealengine.com/21br-launch-modetiles-solo-1920x1080-1920x1080-b6a3a8cbb08e.jpg"
+    },
+    {
+      "mnemonic": "playlist_defaultduo",
+      "title": "Duos",
+      "description": "Pair up with a buddy and take everyone else down.",
+      "creatorName": "Epic Games",
+      "image_url": "https://cdn2.unrealengine.com/21br-launch-modetiles-duos-1920x1080-1920x1080-7bd1ca269cfd.jpg"
+    },
+    {
+      "mnemonic": "playlist_trios",
+      "title": "Trios",
+      "description": "Squad up in groups of three.",
+      "creatorName": "Epic Games",
+      "image_url": "https://cdn2.unrealengine.com/trios-1920x1080-1920x1080-d5054bb9691a.jpg"
+    },
+    {
+      "mnemonic": "playlist_defaultsquad",
+      "title": "Squads",
+      "description": "Squad up and outlast the competition.",
+      "creatorName": "Epic Games",
+      "image_url": "https://cdn2.unrealengine.com/squads-1920x1080-1920x1080-095c0732502e.jpg"
+    }
+  ],
+  "tournaments": [
+    {
+      "tournament_display_id": "ArenaSolo",
+      "title_line_1": "Lategame Arena",
+      "long_format_title": "Lategame Arena Solo",
+      "short_format_title": "Solo Tournament",
+      "flavor_description": "wayzz skids",
+      "details_description": "Wayzz skids",
+      "schedule_info": "Open 24/7",
+      "background_left_color": "1B1B4B",
+      "background_right_color": "1B1B4B",
+      "background_text_color": "FFFFFF",
+      "primary_color": "FFFFFF",
+      "secondary_color": "1B1B1B",
+      "highlight_color": "FFFFFF",
+      "shadow_color": "1B1B1B",
+      "title_color": "FFFFFF",
+      "base_color": "FFFFFF",
+      "poster_fade_color": "DD091A"
+    },
+    {
+      "tournament_display_id": "MeteorTournament",
+      "title_line_1": "MeteorTournament",
+      "long_format_title": "MeteorTournament",
+      "short_format_title": "Solo Tournament",
+      "flavor_description": "Compete and prove you're the best.",
+      "details_description": "Fight your way to the top in the MeteorTournament.",
+      "schedule_info": "Open 24/7",
+      "background_left_color": "000010",
+      "background_right_color": "000010",
+      "background_text_color": "00A2FF",
+      "primary_color": "FFFFFF",
+      "secondary_color": "00A2FF",
+      "highlight_color": "00A2FF",
+      "shadow_color": "00A2FF",
+      "title_color": "FFFFFF",
+      "base_color": "FFFFFF",
+      "poster_fade_color": "00A2FF"
+    }
+  ]
+}
