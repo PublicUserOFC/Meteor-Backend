@@ -1,0 +1,53 @@
+{
+  "name": "fortnite-backend-bun",
+  "version": "1.0.0",
+  "description": "Fortnite Backend in TypeScript with Discord Bot - Powered by Bun or Node.js",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev:bun": "bun --watch src/index.ts",
+    "start:bun": "bun src/index.ts",
+    "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
+    "start": "node dist/index.js",
+    "build": "tsc",
+    "type-check": "tsc --noEmit"
+  },
+  "keywords": [
+    "fortnite",
+    "backend",
+    "typescript",
+    "express",
+    "discord",
+    "bun"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "bcrypt": "^5.1.1",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "canvas": "^3.2.3",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^8.0.3",
+    "node-fetch": "^3.3.2",
+    "selfsigned": "^5.5.0",
+    "uuid": "^9.0.1",
+    "ws": "^8.14.2",
+    "xml-parser": "^1.2.1",
+    "xmlbuilder": "^15.1.1"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/blessed": "^0.1.27",
+    "@types/express": "^4.17.21",
+    "@types/jsonwebtoken": "^9.0.10",
+    "@types/node": "^20.10.5",
+    "@types/uuid": "^9.0.7",
+    "@types/ws": "^8.5.10",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.3.3"
+  }
+}
